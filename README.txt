@@ -1,14 +1,22 @@
-# Cypher Cam-tkinter
-This is a tkinter gui app for Cypher Cam.
+# Cypher Cam
+## Tech Stack
+- Python
+- LBPH and Haar based Algorithms
 
+### Python Packages Used:
+- OpenCV
+- Skimage
+- Numpy
+- tkinter
+- simpleaudio
 
-you just need to run main.py file inorder to run full app 
+- Surveillance Camera/WebCam (For Surveillance)
 
-you would need :
-opencv
-tkinter
+### Features:
+- Anti-theft alarming system
+- Face and motion detection
+- Visitor recognition
+- Video surveillance
 
-installed to run these scripts properly
-
-thanks ;) 
-
+### Real-world Applications:
+- Designed for surveillance in diverse settings such as industrial warehouses, banking systems, jewelry shops, etc.
